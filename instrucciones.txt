@@ -1,0 +1,4 @@
+sudo apt update && sudo apt install git -y
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git ~/dotfiles
+cd ~/dotfiles
+./install.sh
