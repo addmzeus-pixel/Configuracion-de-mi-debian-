@@ -1,0 +1,18 @@
+{
+  "lockfileVersion": 1,
+  "plugins": {
+    "dankKDEConnect": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankKDEConnect",
+      "commit": "e774a9756f2a50499c37a5513f28bee4ebe81d73"
+    },
+    "dockerManager": {
+      "repo": "https://github.com/LuckShiba/DmsDockerManager",
+      "commit": "f6f7d94c84510da098980a2bb733137e90f98fd8"
+    },
+    "wallpaperCarousel": {
+      "repo": "https://github.com/motor-dev/wallpaperCarousel",
+      "commit": "761ecd1b7f347beee9f17909f8334d987c935a1a"
+    }
+  }
+}
