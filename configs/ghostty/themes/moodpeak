@@ -1,0 +1,24 @@
+# Moodpeak theme (generated from colors.toml)
+background = #181c22
+foreground = #e0e6ed
+cursor-color = #e6dbf5
+cursor-text = #181c22
+selection-background = #82eeff
+selection-foreground = #181c22
+
+palette = 0=#181c22
+palette = 1=#ff7b92
+palette = 2=#4ecdc4
+palette = 3=#82eeff
+palette = 4=#6a85ff
+palette = 5=#b388eb
+palette = 6=#c9aff0
+palette = 7=#d1d7e0
+palette = 8=#3d4455
+palette = 9=#ff9ead
+palette = 10=#82eeff
+palette = 11=#b388eb
+palette = 12=#96aaff
+palette = 13=#d1b3ff
+palette = 14=#a5f5ff
+palette = 15=#efedf2
