@@ -23,7 +23,7 @@ Para replicar este entorno en una instalación limpia de Debian:
 sudo apt update && sudo apt install git -y
 
 # 2. Clonar el repositorio
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git) ~/dotfiles
+git clone https://github.com/addmzeus-pixel/Configuracion-de-mi-debian-
 
 # 3. Entrar a la carpeta y ejecutar el script
 cd ~/dotfiles
