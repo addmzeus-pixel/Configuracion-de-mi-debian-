@@ -54,7 +54,12 @@ gtk-single-instance = true
 #theme = takuya.omp.json
 theme = ~/.config/ghostty/themes/.omp.json
 theme = ~/.config/ghostty/themes/.omp.json
-theme = Night Owl
+theme = moodpeak
 
 # Moodpeak theme (added, non-destructive)
 theme = moodpeak
+
+
+
+
+
