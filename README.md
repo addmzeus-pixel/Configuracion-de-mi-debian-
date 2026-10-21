@@ -9,6 +9,7 @@ Repositorio de configuración personal (*dotfiles*) y lista de aplicaciones para
 * `configs/`: Copia de seguridad de la carpeta de configuración (`~/.config`).
 * `apt-packages.txt`: Lista de paquetes instalados vía **APT**.
 * `flatpak-packages.txt`: Lista de aplicaciones instaladas vía **Flatpak**.
+* `bashrc`: Configuración de bash para la **terminal**.
 * `install.sh`: Script de automatización para restaurar el entorno completo de un solo golpe.
 * `instrucciones.txt`: Notas rápidas de uso y comandos de actualización.
 
