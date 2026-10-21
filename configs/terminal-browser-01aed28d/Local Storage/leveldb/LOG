@@ -1,5 +1,3 @@
-2026/10/19-01:14:29.777 439e Reusing MANIFEST /home/addmzeus/.config/terminal-browser-01aed28d/Local Storage/leveldb/MANIFEST-000001
-2026/10/19-01:14:29.780 439e Recovering log #3
-2026/10/19-01:14:29.781 439e Level-0 table #3: started
-2026/10/19-01:14:29.783 439e Level-0 table #3: 75886 bytes OK
-2026/10/19-01:14:29.786 439e Delete type=0 #3
+2026/10/21-10:20:22.755 87a Reusing MANIFEST /home/addmzeus/.config/terminal-browser-01aed28d/Local Storage/leveldb/MANIFEST-000001
+2026/10/21-10:20:22.763 87a Recovering log #13
+2026/10/21-10:20:22.763 87a Reusing old log /home/addmzeus/.config/terminal-browser-01aed28d/Local Storage/leveldb/000013.log 

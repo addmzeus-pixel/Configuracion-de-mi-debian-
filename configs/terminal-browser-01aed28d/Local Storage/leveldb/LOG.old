@@ -1,3 +1,13 @@
-2026/10/19-01:03:22.866 3b91 Reusing MANIFEST /home/addmzeus/.config/terminal-browser-01aed28d/Local Storage/leveldb/MANIFEST-000001
-2026/10/19-01:03:22.869 3b91 Recovering log #3
-2026/10/19-01:03:22.869 3b91 Reusing old log /home/addmzeus/.config/terminal-browser-01aed28d/Local Storage/leveldb/000003.log 
+2026/10/20-15:41:25.490 12ea Reusing MANIFEST /home/addmzeus/.config/terminal-browser-01aed28d/Local Storage/leveldb/MANIFEST-000001
+2026/10/20-15:41:25.493 12ea Recovering log #9
+2026/10/20-15:41:25.493 12ea Level-0 table #12: started
+2026/10/20-15:41:25.496 12ea Level-0 table #12: 63897 bytes OK
+2026/10/20-15:41:25.499 12ea Delete type=0 #9
+2026/10/20-15:41:25.499 12e8 Compacting 4@0 + 0@1 files
+2026/10/20-15:41:25.501 12e8 Generated table #14@0: 28 keys, 18723 bytes
+2026/10/20-15:41:25.501 12e8 Compacted 4@0 + 0@1 files => 18723 bytes
+2026/10/20-15:41:25.504 12e8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/20-15:41:25.504 12e8 Delete type=2 #6
+2026/10/20-15:41:25.505 12e8 Delete type=2 #3
+2026/10/20-15:41:25.505 12e8 Delete type=2 #10
+2026/10/20-15:41:25.505 12e8 Delete type=2 #12
